@@ -1,0 +1,39 @@
+header {
+    width: 100%;
+    height: 100%;
+    max-width: 300px;
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: .2%;
+}
+
+#header-img {
+    max-width: 300px;
+    width: 200%;
+    height: 200%;
+    margin-left: 40px;
+}
+
+#nav-bar {
+    margin-left: 50%;
+    display: flexbox;
+}
+
+ul {
+    width: 20vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 0%;
+    padding: 0%;
+    color: black;
+}
+
+li {
+    list-style: none;
+    text-align: -webkit-match-parent;
+    font-weight: 400;
+    display: inline;
+}
