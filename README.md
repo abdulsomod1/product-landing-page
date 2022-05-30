@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3459a8d9-dbe5-47e3-b78d-a34f7595344d/deploy-status)](https://app.netlify.com/sites/abdulsomod-product-landing/deploys)
+
 # Project Name
 
 > One paragraph statement about the project.
