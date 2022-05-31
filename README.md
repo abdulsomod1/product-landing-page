@@ -1,18 +1,16 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3459a8d9-dbe5-47e3-b78d-a34f7595344d/deploy-status)](https://app.netlify.com/sites/abdulsomod-product-landing/deploys)
 
-# Project Name
+#Product landing page 
 
-> One paragraph statement about the project.
-
+> This is a product landing page and it is buit with Html & css .
 ![screenshot](./images/product_landing_page.png)
 
-Additional description about the project and its features.
-
+It contain style like flex , margin , parding etc
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- Html & Css
+- div , ul , section.
+- margin , parding , flex .
 
 ## Live Demo
 
